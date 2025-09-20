@@ -1,0 +1,5 @@
+requests
+moviepy
+pytube
+youtube_dl
+pytest

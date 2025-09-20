@@ -1,0 +1,9 @@
+[project]
+name = "blindtest-auto"
+version = "0.1.0"
+description = "Génération automatique de blind tests"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+addopts = "-q"
